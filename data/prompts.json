@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "prompt": "Explain how transformers work.",
+      "ref": "Transformers use self-attention to model dependencies...",
+      "model_outputs": {
+        "gpt4": "A transformer works using attention...",
+        "mistral": "Transformers are neural networks that..."
+      }
+    }
+  ]
+}
